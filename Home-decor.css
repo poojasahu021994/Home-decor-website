@@ -914,6 +914,7 @@ span{
     text-align: justify;
     margin: 10px;
     font-size: 16px;
+
 }
 .store_col #location{
     text-align: justify;
@@ -1345,7 +1346,7 @@ span{
     #store_text_div p{
         margin: 20px 0 20px 0px;
         font-size: 18px;
-        width: 300px;
+        width: 350px;
         }   
     #store_img{
         width:250px;

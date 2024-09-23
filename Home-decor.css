@@ -1467,10 +1467,10 @@ span{
 #item_details{
     display: block;
   }
-.order-summary{
-    height: 300px;
+#order-summary{
     width: 300px;
-    margin-left: 30px;
+    height: 450px;
+    margin-right: 40px;
   }
   #order-summary div h4,#item_btn div h3{
     font-size: 18px;
@@ -1481,7 +1481,7 @@ span{
 #item_details_cart{
     height: 370px;
     width: 300px; 
-    margin: 10px 0px 0px 30px;
+    margin: 20px 0px 0px 40px;
 }
 #add-btn{
     height: 20px;
@@ -1498,12 +1498,7 @@ span{
     width: 150px;
   }
   /* ==add to cart== */
-  #order-summary{
-    margin-left: 5px;
-    height: 450px;
-    width: 300px;
-    margin: 25px 0px 0px 50px;
-  }
+  
 #item_ammount div{
     margin-top: 10px;
     padding: 3px;  

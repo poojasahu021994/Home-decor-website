@@ -267,6 +267,7 @@ figure{
 .center-text span{
     color:rgb(216, 179, 14) ;
     font-size: 30px;
+    font-family: cursive;
 }
 .products{
     display: grid;
@@ -379,12 +380,12 @@ figure{
     color:#151515;
     font-size: 30px;
     text-transform: capitalize;
-    margin: 50px 0 40px 0;
+    margin: 50px 0 40px 20px;
 }
 .center-text-feadback span{
     color:rgb(216, 179, 14);
     font-family: cursive;
-    font-size: 30px;
+    font-size: 32px;
 }
 .row-feadback img{
     width: 100%;

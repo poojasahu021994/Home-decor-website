@@ -1343,6 +1343,7 @@ span{
     .slide h1{
         font-size: 30px;
     }
+    
     #store_text_div p{
         margin: 20px 0 20px 0px;
         font-size: 18px;
@@ -1370,9 +1371,10 @@ span{
 }
 .products-unique{
     grid-template-columns: auto;
+    margin: 20px 45px 45px 45px;
 }
 #Unique-hedding p {
-    margin: 20px 0px 20px -60px;
+    margin: 20px 0px 20px -70px;
     font-size: 15px;
     text-align: center;
     width: 350px;
@@ -1383,6 +1385,11 @@ span{
     text-align: center;
     width: 350px;
  }
+ .row-unique img{
+    width: 100%;
+    height: 300px;
+    
+}
 .products{
     grid-template-columns: auto;
     gap: 1rem;
